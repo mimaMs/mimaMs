@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mimaMs
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning HTML/CSS, SCSS, BOOTSTRAP, JS.
+- 🌱 I’m currently learning HTML/CSS, SCSS, BOOTSTRAP, JS,PHP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sarenacmilana@gmail.com
 
